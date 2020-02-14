@@ -57,7 +57,7 @@ public class PanelOmron extends JPanel implements ActionListener {
             jTextArea.replaceSelection("");
 
             String name = fileChooser.getSelectedFile().getPath();
-            jTextArea.append(" 讀取檔案: " + name);
+            jTextArea.append(" 讀取檔案: " + name + "\n");
 
             String outputFilePath = omron.PDFToExcel(name);
 
