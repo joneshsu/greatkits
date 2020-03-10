@@ -1,6 +1,6 @@
 package com.joneshsu.great;
 
-import com.joneshsu.great.Components.MainBoard;
+import com.joneshsu.great.component.MainBoard;
 
 /**
  * Hello world!

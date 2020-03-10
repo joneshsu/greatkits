@@ -1,11 +1,11 @@
-package com.joneshsu.great.Strategies;
+package com.joneshsu.great.handler;
 
 import java.io.File;
 import java.util.ArrayList;
 
-import com.joneshsu.great.utilites.ExcelHelper;
-import com.joneshsu.great.utilites.Goods;
-import com.joneshsu.great.utilites.OmronGoods;
+import com.joneshsu.great.util.ExcelHelper;
+import com.joneshsu.great.util.Goods;
+import com.joneshsu.great.util.OmronGoods;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;

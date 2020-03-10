@@ -1,10 +1,10 @@
-package com.joneshsu.great.Components;
+package com.joneshsu.great.component;
 
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 
-import com.joneshsu.great.utilites.Observer;
+import com.joneshsu.great.util.Observer;
 
 public class MainBoard extends JFrame implements Observer {
     static final long serialVersionUID = 1L;

@@ -1,4 +1,4 @@
-package com.joneshsu.great.Components;
+package com.joneshsu.great.component;
 
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
@@ -6,8 +6,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 
-import com.joneshsu.great.Strategies.Omron;
-import com.joneshsu.great.utilites.ExtensionFileFilter;
+import com.joneshsu.great.handler.Omron;
+import com.joneshsu.great.util.ExtensionFileFilter;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

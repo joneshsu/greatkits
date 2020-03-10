@@ -1,4 +1,4 @@
-package com.joneshsu.great.utilites;
+package com.joneshsu.great.util;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

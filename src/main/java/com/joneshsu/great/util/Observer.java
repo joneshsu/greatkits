@@ -1,4 +1,4 @@
-package com.joneshsu.great.utilites;
+package com.joneshsu.great.util;
 
 import javax.swing.JComponent;
 

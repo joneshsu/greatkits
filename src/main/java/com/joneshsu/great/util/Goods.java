@@ -1,4 +1,4 @@
-package com.joneshsu.great.utilites;
+package com.joneshsu.great.util;
 
 public abstract class Goods {
     public abstract void addData(String data);

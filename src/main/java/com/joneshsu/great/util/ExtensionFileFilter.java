@@ -1,4 +1,4 @@
-package com.joneshsu.great.utilites;
+package com.joneshsu.great.util;
 
 import java.io.File;
 import java.util.ArrayList;

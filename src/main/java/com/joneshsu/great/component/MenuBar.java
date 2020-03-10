@@ -1,10 +1,10 @@
-package com.joneshsu.great.Components;
+package com.joneshsu.great.component;
 
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
-import com.joneshsu.great.utilites.Observer;
+import com.joneshsu.great.util.Observer;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
